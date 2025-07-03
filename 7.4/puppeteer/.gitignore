@@ -1,2 +1,5 @@
 node_modules/
 .local-chromium/
+*.exe
+*.dll
+EOT
